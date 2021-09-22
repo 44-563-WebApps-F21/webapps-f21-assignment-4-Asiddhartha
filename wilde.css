@@ -52,3 +52,10 @@ th{
 tr:nth-child(even){
     background-color: lightblue;
 }
+
+
+h6.LORDDARLINGTON:hover{
+    text-shadow: 2px 2px 5px greenyellow;
+    border-style: outset;
+
+}
